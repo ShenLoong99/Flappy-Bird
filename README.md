@@ -10,7 +10,7 @@
 <div>
    <h1>Flappy Bird (Unity Mini Project)</h1>
    <p align="center"> 
-    <img src="Assets/Assets/flappy-bird.png" alt="flappy-bird" width="800"/>
+    <img src="Assets/welcome-page.png" alt="flappy-bird" width="200"/>
    </p><br>
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
   </p>
