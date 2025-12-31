@@ -90,6 +90,7 @@
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="usage">Usage & Testing</h2>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="https://www.linkedin.com/posts/activity-7411996189782507520-gEjv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC64xbIBQ-4tMrEhn1BXRr8SmkzqiMPX0k8">Flappy Bird Gameplay</a></p>
 <ul>
     <li>Press <strong>Spacebar</strong> to flap</li>
     <li>Avoid pipes and obstacles</li>
