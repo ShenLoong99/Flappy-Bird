@@ -47,30 +47,29 @@
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="file-structure">File Structure</h2>
-<pre>
-    flappy-bird/                        # Root Project Directory 
-    ├── .git/                           # Git version control metadata 
-    ├── .vs/                            # Visual Studio configuration files 
-    ├── .vscode/                        # VS Code workspace settings 
-    ├── Assets/                         # Primary Game Content 
-    │   ├── Audio/                      # Sound effects (flap, score, hit) 
-    │   ├── Materials/                  # Sprite and object shaders 
-    │   ├── Prefabs/                    # Reusable templates (Pipe, Bird) 
-    │   ├── Scenes/                     # Game levels (MainMenu, GameScene) 
-    │   ├── Scripts/                    # C# Logic 
-    │   │   ├── BirdScript.cs           # Bird physics and input 
-    │   │   ├── PipeMove.cs             # Leftward movement logic 
-    │   │   ├── PipeSpawner.cs          # Dynamic pipe instantiation 
-    │   │   ├── LogicScript.cs          # Scoring and Game Over system 
-    │   │   └── PipeMiddleScript.cs     # Score trigger detection 
-    │   └── Settings/                   # Project-specific internal settings 
-    ├── Library/                        # Unity's local cache (do not track in Git) 
-    ├── Logs/                           # Editor and build log files 
-    ├── Packages/                       # Unity Registry dependencies 
-    ├── ProjectSettings/                # Input, Tag, and Physics configurations 
-    ├── Flappy Bird.sln                 # Visual Studio Solution file 
-    ├── README.md                       # Project documentation 
-    └── Flappy Bird Tutorial.pdf        # Project documentation/guide 
+<pre>flappy-bird/                        # Root Project Directory 
+├── .git/                           # Git version control metadata 
+├── .vs/                            # Visual Studio configuration files 
+├── .vscode/                        # VS Code workspace settings 
+├── Assets/                         # Primary Game Content 
+│   ├── Audio/                      # Sound effects (flap, score, hit) 
+│   ├── Materials/                  # Sprite and object shaders 
+│   ├── Prefabs/                    # Reusable templates (Pipe, Bird) 
+│   ├── Scenes/                     # Game levels (MainMenu, GameScene) 
+│   ├── Scripts/                    # C# Logic 
+│   │   ├── BirdScript.cs           # Bird physics and input 
+│   │   ├── PipeMove.cs             # Leftward movement logic 
+│   │   ├── PipeSpawner.cs          # Dynamic pipe instantiation 
+│   │   ├── LogicScript.cs          # Scoring and Game Over system 
+│   │   └── PipeMiddleScript.cs     # Score trigger detection 
+│   └── Settings/                   # Project-specific internal settings 
+├── Library/                        # Unity's local cache (do not track in Git) 
+├── Logs/                           # Editor and build log files 
+├── Packages/                       # Unity Registry dependencies 
+├── ProjectSettings/                # Input, Tag, and Physics configurations 
+├── Flappy Bird.sln                 # Visual Studio Solution file 
+├── README.md                       # Project documentation 
+└── Flappy Bird Tutorial.pdf        # Project documentation/guide 
 </pre>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
@@ -149,11 +148,6 @@
 </table>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
-<h2 id="contact">Contact</h2>
-<p>Tan Si Kai - <a href="https://linkedin.com/in/si-kai-tan">LinkedIn</a></p>
-<p>Project Link: <a href="https://github.com/ShenLoong99/Flappy-Bird">Flappy Bird Repo</a></p>
-<div align="right"><a href="#readme-top">↑ Back to Top</a></div>
-
 <h2 id="contact">Acknowledgements</h2>
 <p>
     Special thanks to <strong>Game Maker's Toolkit</strong> for the excellent tutorial:<br>
@@ -173,4 +167,4 @@
 [license-shield]: https://img.shields.io/github/license/ShenLoong99/Flappy-Bird.svg?style=for-the-badge
 [license-url]: https://github.com/ShenLoong99/Flappy-Bird/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/https://linkedin.com/in/si-kai-tan
+[linkedin-url]: https://linkedin.com/in/si-kai-tan
