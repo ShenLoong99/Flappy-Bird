@@ -19,12 +19,12 @@
    <summary>Table of Contents</summary>
    <ol>
       <li><a href="#about-the-project">About The Project</a></li>
+      <li><a href="#built-with">Built With</a></li>
       <li><a href="#file-structure">File Structure</a></li>
       <li><a href="#getting-started">Getting Started</a></li>
       <li><a href="#usage">Usage & Testing</a></li>
       <li><a href="#roadmap">Roadmap</a></li>
       <li><a href="#challenges">Challenges</a></li>
-      <li><a href="#contact">Contact</a></li>
    </ol>
 </details>
 <h2 id="about-the-project">About The Project</h2>
